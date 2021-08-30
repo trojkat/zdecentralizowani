@@ -1,0 +1,22 @@
+baseURL = 'https://trojkat.github.io/zdecentralizowani/'
+languageCode = 'pl'
+title = 'Zdecentralizowani'
+theme = 'contrast-hugo'
+
+[params]
+minimal = false
+excerpts = false
+
+[menu]
+
+  [[menu.main]]
+    identifier = "user"
+    name = "Dla użytkownicków"
+    url = "/user/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "admin"
+    name = "Dla administratorów"
+    url = "/admin/"
+    weight = 11

@@ -1,3 +1,0 @@
-## Zdecentralizowani
-
-Strona w budowie.
