@@ -88,9 +88,7 @@ name = "Dla administratorów"
 url = "administratorzy"
 
 [extra.footer]
-start_year = "2020"  # start year of the site
-end_year = "2021"    # end year of the site
-info = "Made with <a href=\"https://www.getzola.org\">Zola</a> with <a href=\"https://github.com/aaranxu/tale-zola\">Tala-Zola</a> theme."
+info = "Zapraszam do współtworzenia lub poprawiania treści tego poradnika <a href=\"https://github.com/trojkat/zdecentralizowani/\">w serwisie Github</a>."
 
 
 # The options below are used to refer to the expressions on the pages, and you
