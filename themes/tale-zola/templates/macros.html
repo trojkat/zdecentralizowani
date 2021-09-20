@@ -1,16 +1,41 @@
+{%- macro toc(toc, depth, heading=true) %}
+{%- if heading %}
+<h3>Spis treści</h3>
+{%- endif %}
+<ol class=toc>
+{%- for heading in toc %}
+	<li>
+		<a href="{{ heading.permalink | safe }}">{{ heading.title }}</a>
+		{% if heading.children and depth > 1 -%}
+			{{ self::toc(toc=heading.children, depth=depth - 1, heading=false) }}
+		{%- endif %}
+	</li>
+{%- endfor %}
+</ol>
+<br>
+{%- endmacro %}
+
+{%- macro replace_toc(resource) %}
+	{%- set content = resource.content %}
+	{%- if content is containing("[TOC]") %}
+		{%- set content = content | replace(from="[TOC]", to=self::toc(toc=resource.toc, level=1, depth=resource.extra.toc_depth | default(value=6))) %}
+	{%- endif -%}
+	{{ content | safe }}
+{%- endmacro %}
+
 {%- macro time() -%}
   {%- if config.extra.footer.start_year -%}
   	{%- set start_year = config.extra.footer.start_year -%}
   {%- else -%}
   	{%- set start_year = now() | date(format="%Y") -%}
   {%- endif -%}
-  
+
   {%- if config.extra.footer.end_year -%}
   	{%- set end_year = config.extra.footer.end_year -%}
   {%- else -%}
   	{%- set end_year = now() | date(format="%Y") -%}
   {%- endif -%}
-  
+
   {%- if start_year == end_year -%}
   	{%- set year = start_year -%}
   {%- else -%}
