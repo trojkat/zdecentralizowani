@@ -5,7 +5,7 @@ template = "section.html"
 
 [TOC]
 
-Zanim przejdziemy do konkretnych platform trzeba wspomnieć o niezwykle ważnym dla serwisów zdecentralizowanych projekcie **Fediwersum** (ang. Fediverse). Sama nazwa powstała ze zlepienia słów **federacja** i **uniwersum**. Celem projektu jest stworzenie rozległej sieci serwerów, które poprzez implementację tych samych protokołów komunikacyjnych mogłyby bez przeszkód wymieniać pomiędzy sobą informacje.
+Zanim przejdziemy do konkretnych platform trzeba wspomnieć o niezwykle ważnym dla serwisów zdecentralizowanych projekcie **Fediwersum** (ang. Fediverse). Nazwa powstała ze zlepienia słów **federacja** i **uniwersum**. Celem projektu jest stworzenie rozległej sieci serwerów, które poprzez implementację tych samych protokołów komunikacyjnych mogłyby bez przeszkód wymieniać pomiędzy sobą informacje.
 
 W skład Fediwersum wchodzą różnego rodzaju platformy (m.in. mikroblogowe, społecznościowe, wideo). Posiadając konto na platformnie wchodzącej w skład Fediwersum możemy bez problemu obserwować użytkowników innych platform czy np. używać naszego konta na platformie mikroblogowej aby komentować filmy na platformie wideo. Dzięki temu Fediwersum rozwiązuje problem tożsamości i nie wymusza na nas tworzenia osobnych kont na każdej z tych platform. Dla odpowiedniego porównania wyobraźmy sobie sytuację, w której mamy możliwość użycia naszego konta Facebookowego do skomentowania filmu na YouTube lub konta Twitterowego do śledzenia znajomego na Facebooku. W sieci Fediwersum takie interakcje są możliwe bo wszystkie platformy się ze sobą dogadują.
 
@@ -30,7 +30,7 @@ Mastodon to platforma mikroblogowa zbliżona do Twittera lecz oparta na otwartej
 
 ### Pleroma (Fediversum)
 
-Pleroma to kolejna alternatywa dla Twittera. Zawiera w sobie funkcjonalność Mastodona, do których durzuca kilka dodatkowych. Podobnie jak Mastodon Pleroma komunikuje się za pomocą tego samego protokołu co Mastodon (ActivityPub) tym samym serwery używające Pleromy mogą swobodnie komunikować się również z serwerami Mastodona tworząc wspólnie jedną dużą sieć.
+Pleroma to kolejna alternatywa dla Twittera. Zawiera w sobie funkcjonalność Mastodona, do których durzuca kilka dodatkowych tj. reakcje w postaci emoticon. Podobnie jak Mastodon Pleroma komunikuje się za pomocą tego samego protokołu co Mastodon (ActivityPub) tym samym serwery używające Pleromy mogą swobodnie komunikować się również z serwerami Mastodona tworząc wspólnie jedną dużą sieć.
 
 ![Pleroma](pleroma.png)
 

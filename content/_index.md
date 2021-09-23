@@ -21,7 +21,7 @@ Sieci rozproszone to dokładne **przeciwieństwo centralizacji**. W tych sieciac
 
 Dla lepszego zobrazowania zasad działania sieci rozproszonej wyobraźmy sobie serwis YouTube zaprojektowany jako sieć rozproszona. Każdy z nas uruchamiałby aplikację YouTube będącą **węzłem** takiej sieci i za jej pomocą oglądał lub udostępniał innym filmy z własnego dysku. Jeżeli jednemu z wideoblogerów zepsułby się komputer wówczas widzowie straciliby możliwość oglądania jego filmów. Nie wpłynęło by to jednak na dostępność filmów innych autorów o ile tylko ich węzły sieci pozostawałyby cały czas dostępne.
 
-Przykładami sieci rozproszonych są **sieci blockchainowe** np. **Bitcoin** czy sieć **BitTorrent**. 
+Przykładami sieci rozproszonych są **sieci blockchainowe** np. **Bitcoin** czy sieć **BitTorrent**.
 
 ## Sieci zdecentralizowane
 
@@ -33,7 +33,7 @@ Kontynuując porównanie do serwisu YouTube jego zdecentralizowana wersja mogła
 
 Dobrze wszystkim znanym przykładem sieci rozproszonej jest **system poczty elektronicznej**. Mamy do dyspozycji wiele serwerów poczty elektronicznej, które komunikują się pomiędzy sobą za pomocą otwartego protokołu, mamy też wiele aplikacji klienckich, które również komunikują się z "lokalnymi serwerami" za pomocą otwartego protokołu. Awaria serwerów **onet.pl**, chociaż uniemożliwa odbieranie wiadomości jego użytkownikom to jednak nie wpływa na komunikację pomiędzy pozostałymi serwerami. Nadal użytkownicy innych serwerów mogą wysyłać e-maile z np. z serwerów **wp.pl** do serwerów **gmail.com**.
 
-Decentralizacja nie tylko **ogranicza zasięg awarii** ale również przekazuje zarządzanie danymi do serwerów lokalnych. Pozostają w konwencji poczty elektronicznej to użytkownicy sami podejmują decyzję na jakich serwerach założą swoje konto pocztowe. Każdy serwer ma swój własny regulamin, cennik usług czy zespół administracyjny. Jeżeli nie ufamy administratorom darmowego serwera **X** zawsze możemy założyć konto w bardziej zaufanym serwisie **Y** lub nawet samemu czy z pomocą znajomych założyć własny serwer.
+Decentralizacja nie tylko **ogranicza zasięg awarii** ale również przekazuje zarządzanie danymi do serwerów lokalnych. Pozostając w konwencji poczty elektronicznej to użytkownicy sami podejmują decyzję na jakich serwerach założą swoje konto pocztowe. Każdy serwer ma swój własny regulamin, cennik usług czy zespół administracyjny. Jeżeli nie ufamy administratorom darmowego serwera **X** zawsze możemy założyć konto w bardziej zaufanym serwisie **Y** lub nawet samemu czy z pomocą znajomych założyć własny serwer.
 
 Decentralizacja **oddaje władzę w ręce małych grup** i pozwala im **kierować się własnymi zasadami**.
 
