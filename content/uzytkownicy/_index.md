@@ -90,3 +90,30 @@ W odróżnieniu od platform scentralizowanych PeerTube nie postrzega swoich uży
 * Aplikacje mobilne: [docs.joinpeertube.org/use-third-party-application](https://docs.joinpeertube.org/use-third-party-application)
 * Lista serwerów: [joinpeertube.org/instances](https://joinpeertube.org/instances)
 * Polskie serwery: [joinpeertube.org/instances](https://joinpeertube.org/instances) (przefiltruj po języku)
+
+
+## Platformy foto
+
+### PixelFed (Fediversum)
+
+Pixelfeed to platforma do hostingu zdjęć z nowoczesnym interfejsem użytkownika. Z funkcjonalości jakie oferuje ta platforma można wymienić: tworzenie kolekcji, edytor metadanych, wyłączanie komentarzy, pętle wideo, dwu-etapowa autoryzacja, stories, śledzenie tagów.
+
+![PixelFed](pixelfed.png)
+
+* Strona projektu: [pixelfed.org](https://pixelfed.org/)
+* Lista serwerów: [the-federation.info/pixelfed](https://the-federation.info/pixelfed)
+
+## Platformy audio
+
+### Funkwhale
+
+Funkwhale to platforma pozwalająca ma słuchanie oraz udostępnianie muzyki w sieci zdecentralizowanej. Aplikacja została tak zaprojektowana aby być nie tylko serwerem i odtwarzaczem muzyki, ale też miejscem skupiającym społeczność i pozwalającym odkrywać muzykę. Funkcjonalność wieloryba to: radia, playlisty, ulubione oraz rekomendowane utwory.
+
+![Funkwhale](funkwhale.png)
+
+* Strona projektu: [funkwhale.audio](https://funkwhale.audio/)
+* Aplikacje mobilne: [funkwhale.audio/en_US/apps](https://funkwhale.audio/en_US/apps)
+* Lista serwerów: [https://network.funkwhale.audio/dashboards/](https://network.funkwhale.audio/dashboards/d/overview/funkwhale-network-overview?orgId=1&refresh=2h)
+* Polskie serwery:
+  * [funkwhale.juniorjpdj.pl](https://funkwhale.juniorjpdj.pl/)
+  * [muzyka.danelski.pl](https://muzyka.danelski.pl/)
