@@ -105,7 +105,7 @@ Pixelfeed to platforma do hostingu zdjęć z nowoczesnym interfejsem użytkownik
 
 ## Platformy audio
 
-### Funkwhale
+### Funkwhale (Fediversum)
 
 Funkwhale to platforma pozwalająca ma słuchanie oraz udostępnianie muzyki w sieci zdecentralizowanej. Aplikacja została tak zaprojektowana aby być nie tylko serwerem i odtwarzaczem muzyki, ale też miejscem skupiającym społeczność i pozwalającym odkrywać muzykę. Funkcjonalność wieloryba to: radia, playlisty, ulubione oraz rekomendowane utwory.
 
@@ -117,3 +117,17 @@ Funkwhale to platforma pozwalająca ma słuchanie oraz udostępnianie muzyki w s
 * Polskie serwery:
   * [funkwhale.juniorjpdj.pl](https://funkwhale.juniorjpdj.pl/)
   * [muzyka.danelski.pl](https://muzyka.danelski.pl/)
+
+## Agregatory linków
+
+### Lemmy (Fediversum)
+
+Lemmy do platforma podobna to takich serwisów jak Reddit, Wykop czy Hacker News łączącą w sobie funkcję agregatora linków oraz portalu społecznościowego skupiającego użytkowników wokół tworzonych przez nich podserwisów tematycznych. Zdecentralizowanym atutem tej platformy jest możliwość śledzenia również treści, zamieszanych na różnych serwerach.
+
+![Lemmy](lemmy.png)
+
+* Strona projektu: [join-lemmy.org](https://join-lemmy.org/)
+* Aplikacje mobilne: [join-lemmy.org/apps](https://join-lemmy.org/apps)
+* Lista serwerów: [join-lemmy.org/instances](https://join-lemmy.org/instances)
+* Polskie serwery:
+    * [szmer.info](https://szmer.info/)
