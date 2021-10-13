@@ -5,7 +5,7 @@ template = "section.html"
 
 [TOC]
 
-Zanim przejdziemy do konkretnych platform trzeba wspomnieć o niezwykle ważnym dla serwisów zdecentralizowanych projekcie **Fediwersum** (ang. Fediverse). Nazwastała ze zlepienia słów **federacja** i **uniwersum**. Celem projektu jest stworzenie rozległej sieci serwerów, które poprzez implementację tych samych protokołów komunikacyjnych mogłyby bez przeszkód wymieniać pomiędzy sobą informacje.
+Zanim przejdziemy do konkretnych platform trzeba wspomnieć o niezwykle ważnym dla serwisów zdecentralizowanych projekcie **Fediwersum** (ang. Fediverse). Nazwa powstała ze zlepienia słów **federacja** i **uniwersum**. Celem projektu jest stworzenie rozległej sieci serwerów, które poprzez implementację tych samych protokołów komunikacyjnych mogłyby bez przeszkód wymieniać pomiędzy sobą informacje.
 
 W skład Fediwersum wchodzą różnego rodzaju platformy (m.in. mikroblogowe, społecznościowe, wideo). Posiadając konto na platformnie wchodzącej w skład Fediwersum możemy bez problemu obserwować użytkowników innych platform czy np. używać naszego konta na platformie mikroblogowej aby komentować filmy na platformie wideo. Dzięki temu Fediwersum rozwiązuje problem tożsamości i nie wymusza na nas tworzenia osobnych kont na każdej z tych platform. Dla odpowiedniego porównania wyobraźmy sobie sytuację, w której mamy możliwość użycia naszego konta Facebookowego do skomentowania filmu na YouTube lub konta Twitterowego do śledzenia znajomego na Facebooku. W sieci Fediwersum takie interakcje są możliwe bo wszystkie platformy się ze sobą dogadują.
 
@@ -143,3 +143,27 @@ Lemmy do platforma podobna to takich serwisów jak Reddit, Wykop czy Hacker News
 * Lista serwerów: [join-lemmy.org/instances](https://join-lemmy.org/instances)
 * Polskie serwery:
     * [szmer.info](https://szmer.info/)
+
+
+## Czat
+
+### XMPP (dawniej Jabber)
+
+XMPP to otwarty i rozszerzalny protokół komunikacyjny stworzony na potrzeby komunikatorów internetowych. Został zapoczątkowany w 1999 roku pod nazwą Jabber a w pełni ustandaryzowany w 2011 roku jako XMPP. Od tego czasu powstało już bardzo wiele komunikatorów oraz serwerów operujących na protokole XMPP. Oprócz znanej wszystkim listy kontaktów oraz rozmów tekstowych XMPP oferuje również czaty grupowe, rozmowy głosowe, rozmowy wideo, przesyłanie plików czy szyfrowanie. Zasadę działania XMPP można porównać do poczty elekronicznej gdzie wiele niezależnych serwerów komunikuje się pomiędzy sobą. XMPP można też wykorzystać do komunikacji wewnętrznej (np. w firmie) ponieważ sprawdza się doskonale nawet w odciętych od internetu sieciach prywatnych.
+
+![XMPP](xmpp.png)
+
+* Strona projektu: [xmpp.org](https://xmpp.org/)
+* Aplikacje mobilne (i nie tylko): [xmpp.org/software/clients/](https://xmpp.org/software/clients/)
+* Lista serwerów: [list.jabber.at](https://list.jabber.at/)
+
+
+### Delta chat
+
+Delta chat to komunikator, który do przesyłania wiadomości wykorzystuje zdecentralizowaną już sieć serwerów poczty elektronicznej. Można go porównać do specjalnego klienta poczty (wykorzystującego opcje natychmiastowego dostarczania wiadomości), który jest w stanie wykrywać specjalnie oznaczone wiadomości email i wyświetlać je w postaci czatu. Możemy rozmawiać również z osobami nie używającymi Delta chatu, wówczas zobaczą oni nasze wiadomości jako zwykłe emaile, na które mogą odpowiedzieć. Jednak jeżeli obie strony używają do komunikacji Delta chatu, wówczas wiadomości są automatycznie szyfrowane i tylko odbiora oraz nadawaca potrafią je odszyfrować.
+
+![Delta chat](deltachat.png)
+
+* Strona projektu: [delta.chat/pl/](https://delta.chat/pl/)
+* Aplikacje mobilne (i nie tylko): [delta.chat/pl/download](https://delta.chat/pl/download)
+* Lista serwerów: dowolny serwer poczty elektronicznej
