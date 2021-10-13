@@ -13,7 +13,7 @@ Na poniższej liście platform zaznaczymy te, które wchodzą w skład Fediwers
 
 ## Platformy mikroblogowe
 
-### Mastodon (Fediversum)
+### Mastodon (Fediwersum)
 
 Mastodon to platforma mikroblogowa zbliżona do Twittera lecz oparta na otwartej sieci serwerów. Każdy serwer rządzi się swoimi własnymi prawami czego manifestacją jest regulamin serwera opisujący rzeczy, które nie są mile widziane przez administratorów. Często są to społeczności tematyczne skupione wokół wspólnych zainteresowań użytkowników lub regionalne łączące użytkowników z tego samego regionu.
 
@@ -28,7 +28,7 @@ Mastodon to platforma mikroblogowa zbliżona do Twittera lecz oparta na otwartej
     * [fedi.lewactwo.pl](https://fedi.lewactwo.pl/)
 
 
-### Pleroma (Fediversum)
+### Pleroma (Fediwersum)
 
 Pleroma to kolejna alternatywa dla Twittera. Zawiera w sobie funkcjonalność Mastodona, do których durzuca kilka dodatkowych tj. reakcje w postaci emoticon. Podobnie jak Mastodon Pleroma komunikuje się za pomocą tego samego protokołu co Mastodon (ActivityPub) tym samym serwery używające Pleromy mogą swobodnie komunikować się również z serwerami Mastodona tworząc wspólnie jedną dużą sieć.
 
@@ -41,7 +41,7 @@ Pleroma to kolejna alternatywa dla Twittera. Zawiera w sobie funkcjonalność M
     * [fediverse.pl](https://fediverse.pl)
 
 
-### Misskey (Fediversum)
+### Misskey (Fediwersum)
 
 Misskey to wywodząca się z Japonii platforma mikroblogowa. Z unikatowych funkcji jakie ma do zaoferowania Misskey, w odróżnienia od Mastodona czy Plermony, można wymieć funkcję dysku do przechowywania plików użytkownika, kalendarz, gry czy bardzo elastyczny interfejs użytkownika, który możemy dostosować do swoich upodobań.
 
@@ -53,7 +53,7 @@ Misskey to wywodząca się z Japonii platforma mikroblogowa. Z unikatowych funk
 
 ## Platformy społecznościowe
 
-### Diaspora (Fediversum)
+### Diaspora (Fediwersum)
 
 Projekt Diaspora został powołany do życia w 2010 przez grupkę znajomych mających wspólny cel - zbudowanie serwisu społecznościowego, który oddałby kontrole z powrotem w ręce użytkowników. Obecnie Diaspora cieszy się dużą i stabilną grupą użytkowników. Wiele osób dołączyło do Diaspory w poszukiwaniu alternatyw dla platform tworzonych przez duże korporacje.
 
@@ -65,9 +65,9 @@ Diaspora posiada możliwość grupowania znajomych (aspekty) i udostępnienia tr
 * Aplikacja mobilna: [dandelion*](https://f-droid.org/en/packages/com.github.dfa.diaspora_android/)
 * Lista serwerów: [the-federation.info/diaspora](https://the-federation.info/diaspora)
 
-### Friendica (Fediversum)
+### Friendica (Fediwersum)
 
-Friendica celuje w bycie platformą dla każdego. Osoby przybywające z innych platform powinny tutaj czuć się jak w domu, odnajdując funkcjonalności znane z innych serwisów. Ze względu na niskie zużycie zasobów Friendica jest często wybierana przez administratorów serwerów. Jest dobrze zintegrowana z pozostałą częścią Fediversum przez co jej użytkownicy mogą z łatwością śledzić znajomych zamieszkujących inne usługo Fediversum.
+Friendica celuje w bycie platformą dla każdego. Osoby przybywające z innych platform powinny tutaj czuć się jak w domu, odnajdując funkcjonalności znane z innych serwisów. Ze względu na niskie zużycie zasobów Friendica jest często wybierana przez administratorów serwerów. Jest dobrze zintegrowana z pozostałą częścią Fediwersum przez co jej użytkownicy mogą z łatwością śledzić znajomych zamieszkujących inne usługo Fediwersum.
 
 ![Friendica](friendica.png)
 
@@ -77,10 +77,22 @@ Friendica celuje w bycie platformą dla każdego. Osoby przybywające z innych p
 * Polskie serwery: [dir.friendica.social/servers/pl](https://dir.friendica.social/servers/pl)
 
 
+## Platformy blogowe
+
+### WriteFreely (Fediwersum)
+
+WriteFreely to platforma do publikowania treści, przeznaczona dla blogerów lub osób, które lubią wyrażać swoje myśli w postaci dłuższych tekstów. WriteFreely skupia się na łatwości tworzenia tekstów oraz ich czytelności. Oprócz tekstu wspiera także publikacje zdjęć, treści wideo oraz składnię Markdown. Treści publikowane przez WriteFreely mogę być z łatwością śledzone czy komentowane przez innych użytkowników sieci Fediwersum.
+
+![WriteFreely](writefreely.png)
+
+* Strona projektu: [writefreely.org](https://writefreely.org/)
+* Aplikacje mobilne: [writefreely.org/apps](https://writefreely.org/apps)
+* Lista serwerów: [writefreely.org/instances](https://writefreely.org/instances)
+
 
 ## Platformy wideo
 
-### PeerTube (Fediversum)
+### PeerTube (Fediwersum)
 
 W odróżnieniu od platform scentralizowanych PeerTube nie postrzega swoich użytkowników jako produktu, który można śledzić i pokazywać reklamy. Celem PeerTube'a jest stworzenie sieci powiązanych ze sobą platform przechowujących pliki wideo dając użytkownikom możliwość wybóru takiej platformy, która spełnia ich wymagania dotyczące zasad korzystania z serwisu oraz cenzury. Nie znajdziecie tutaj algorytmów rekomendujących kolejne filmy do obejrzenia czy konieczności oddawania komuś praw autorskich do naszych filmów. Strumieniowanie filmów odbywa się za pomocą sieci peer-to-peer (p2p) czyli użytkownicy oglądający materiały wideo automatycznie pomagają w transferze danych do pozostałych użytkowników chcących obejrzeć ten film.
 
@@ -94,7 +106,7 @@ W odróżnieniu od platform scentralizowanych PeerTube nie postrzega swoich uży
 
 ## Platformy foto
 
-### PixelFed (Fediversum)
+### PixelFed (Fediwersum)
 
 Pixelfeed to platforma do hostingu zdjęć z nowoczesnym interfejsem użytkownika. Z funkcjonalości jakie oferuje ta platforma można wymienić: tworzenie kolekcji, edytor metadanych, wyłączanie komentarzy, pętle wideo, dwu-etapowa autoryzacja, stories, śledzenie tagów.
 
@@ -105,7 +117,7 @@ Pixelfeed to platforma do hostingu zdjęć z nowoczesnym interfejsem użytkownik
 
 ## Platformy audio
 
-### Funkwhale (Fediversum)
+### Funkwhale (Fediwersum)
 
 Funkwhale to platforma pozwalająca ma słuchanie oraz udostępnianie muzyki w sieci zdecentralizowanej. Aplikacja została tak zaprojektowana aby być nie tylko serwerem i odtwarzaczem muzyki, ale też miejscem skupiającym społeczność i pozwalającym odkrywać muzykę. Funkcjonalność wieloryba to: radia, playlisty, ulubione oraz rekomendowane utwory.
 
@@ -120,7 +132,7 @@ Funkwhale to platforma pozwalająca ma słuchanie oraz udostępnianie muzyki w s
 
 ## Agregatory linków
 
-### Lemmy (Fediversum)
+### Lemmy (Fediwersum)
 
 Lemmy do platforma podobna to takich serwisów jak Reddit, Wykop czy Hacker News łączącą w sobie funkcję agregatora linków oraz portalu społecznościowego skupiającego użytkowników wokół tworzonych przez nich podserwisów tematycznych. Zdecentralizowanym atutem tej platformy jest możliwość śledzenia również treści, zamieszanych na różnych serwerach.
 
