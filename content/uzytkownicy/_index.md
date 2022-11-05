@@ -144,6 +144,16 @@ Lemmy do platforma podobna to takich serwisów jak Reddit, Wykop czy Hacker News
 * Polskie serwery:
     * [szmer.info](https://szmer.info/)
 
+### Kbin (Fediwersum)
+
+Agregator treści i platforma mikroblogowa wzorowana na Reddicie. Użytkownicy mogą tworzyć i moderować własne magazyny (społeczności tematyczne). Portal podzielony jest na dwa główne segmenty - "Stronę główną" zawierającą linki i dłuższe artykuły oraz "Wpisy", które są odpowiednikiem wykopowego mikrobloga.
+
+![Kbin](kbin.png)
+
+* Strona projektu: [kbin.pub](https://kbin.pub/)
+* Polskie serwery:
+  * [karab.in](https://karab.in/)
+
 
 ## Czat
 
