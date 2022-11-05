@@ -178,3 +178,13 @@ Delta chat to komunikator, który do przesyłania wiadomości wykorzystuje zdece
 * Strona projektu: [delta.chat/pl/](https://delta.chat/pl/)
 * Aplikacje mobilne (i nie tylko): [delta.chat/pl/download](https://delta.chat/pl/download)
 * Lista serwerów: dowolny serwer poczty elektronicznej
+
+### Element (dawniej Riot)
+
+Element to komunikator porozumiewający się za pomocą otwartego protokołu [Matrix](https://matrix.org/), nad którego rozwojem czuwa organizacja non-profit - Matrix.org Foundation. Wspiera szyfrowanie od końca do końca (ang. end-to-end encryption), grupy, współdzielenie plików, rozmowy audio oraz wideo.
+
+![Element](element.png)
+
+* Strona projektu: [element.io](https://element.io/)
+* Aplikacje mobilne (i nie tylko): [element.io/get-started](https://element.io/get-started#download)
+* Lista serwerów: [joinmatrix.org/servers](https://joinmatrix.org/servers/)
