@@ -188,3 +188,14 @@ Element to komunikator porozumiewający się za pomocą otwartego protokołu [M
 * Strona projektu: [element.io](https://element.io/)
 * Aplikacje mobilne (i nie tylko): [element.io/get-started](https://element.io/get-started#download)
 * Lista serwerów: [joinmatrix.org/servers](https://joinmatrix.org/servers/)
+
+
+
+### Session
+
+Wysyłaj wiadomości, nie metadane - to oficjalny slogan komunikatora Session, skupionego na prywatności. Session wspiera szyfrowanie od końca do końca (ang. end-to-end encryption), czaty grupowe, wiadomości głosowe oraz załączniki. Aby założyć własne konto nie potrzebujemy emaila czy numeru telefonu, dzięki czemu użytkownicy mogą pozostać całkowicie anonimowi. Wysyłane wiadomości przechodzą przez wewnętrzna sieć anonimizującą co sprawia, że nie można zlokalizować nadawcy.
+
+![Session](session.jpg)
+
+* Strona projektu: [getsession.org](https://getsession.org/)
+* Aplikacje mobilne (i nie tylko): [getsession.org/download](https://getsession.org/download)
