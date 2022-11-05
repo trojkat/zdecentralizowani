@@ -26,6 +26,7 @@ Mastodon to platforma mikroblogowa zbliżona do Twittera lecz oparta na otwartej
 * Polskie serwery:
     * [101010.pl](https://101010.pl)
     * [fedi.lewactwo.pl](https://fedi.lewactwo.pl/)
+    * [mastodon.pl](https://mastodon.pl/)
 
 
 ### Pleroma (Fediwersum)
