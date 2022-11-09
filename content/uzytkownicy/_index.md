@@ -155,6 +155,20 @@ Agregator treści i platforma mikroblogowa wzorowana na Reddicie. Użytkownicy m
 * Polskie serwery:
   * [karab.in](https://karab.in/)
 
+## Agregatory wydarzeń
+
+### Mobilizon (Fediwersum)
+
+Mobilizon to platforma promujący nadchodzące wydarzenia będąca świetną alternatywą do serwisów tj. meetup.com. Mobilizon umożliwia też tworzenie wielu tożsamości w ramach jednego konta, aby można było łatwo odzielić np. imprezy rodzinne od eventów służbowych.
+
+![Mobilizon](mobilizon.png)
+
+* Strona projektu: [joinmobilizon.org](https://joinmobilizon.org/)
+* Aplikacje mobilne: [join-lemmy.org/apps](https://join-lemmy.org/apps)
+* Lista serwerów: [instances.joinmobilizon.org/instances](https://instances.joinmobilizon.org/instances)
+* Polskie serwery:
+    * [mobilizon.pl](https://mobilizon.pl/)
+
 
 ## Czat
 
