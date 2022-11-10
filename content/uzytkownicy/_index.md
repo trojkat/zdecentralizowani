@@ -58,7 +58,7 @@ Misskey to wywodząca się z Japonii platforma mikroblogowa. Z unikatowych funk
 
 Projekt Diaspora został powołany do życia w 2010 przez grupkę znajomych mających wspólny cel - zbudowanie serwisu społecznościowego, który oddałby kontrole z powrotem w ręce użytkowników. Obecnie Diaspora cieszy się dużą i stabilną grupą użytkowników. Wiele osób dołączyło do Diaspory w poszukiwaniu alternatyw dla platform tworzonych przez duże korporacje.
 
-![Diaspora](diaspora.png)
+![Diaspora](diaspora.jpg)
 
 Diaspora posiada możliwość grupowania znajomych (aspekty) i udostępnienia treści tylko wybranym grupom. Oprócz tego znajdziemy tam również możliwość tworzenia ankiet, tagowanie treści, powiadomienia o urodzinach, dwu-etapową autoryzację czy wsparcie dla składni Markdown.
 
