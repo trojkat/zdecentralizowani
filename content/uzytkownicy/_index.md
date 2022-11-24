@@ -27,7 +27,9 @@ Mastodon to platforma mikroblogowa zbliżona do Twittera lecz oparta na otwartej
     * [101010.pl](https://101010.pl)
     * [fedi.lewactwo.pl](https://fedi.lewactwo.pl/)
     * [mastodon.pl](https://mastodon.pl/)
-
+    * [pol.social](https://pol.social/)
+    * [mastodon.com.pl](https://mastodon.com.pl/)
+    * [twixter.eu](https://twixter.eu/)
 
 ### Pleroma (Fediwersum)
 
